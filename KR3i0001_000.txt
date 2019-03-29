@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 奇器圖說
-#+DATE: 2019-03-29 21:23:21.673676
+#+DATE: 2019-03-29 21:23:21.748888
 #+PROPERTY: ID KR3i0001
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3i0001_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部九¶
